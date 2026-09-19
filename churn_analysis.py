@@ -1,17 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-print("Customer Churn Analysis Project")
+df=pd.read_csv('data/telecom_churn.csv')
+print('Total Customers:',len(df))
+print('Churn Rate:',round((df['Churn']=='Yes').mean()*100,2),'%')
 
-data = pd.DataFrame({
-    "Month": ["Jan", "Feb", "Mar", "Apr"],
-    "Churn": [45, 38, 52, 30]
-})
-
-plt.plot(data["Month"], data["Churn"], marker="o")
-plt.title("Monthly Customer Churn")
-plt.xlabel("Month")
-plt.ylabel("Customers")
-plt.savefig("images/churn_trend.png")
-
-print(data)
+region=df.groupby('Contract')['CustomerID'].count()
+region.plot(kind='bar',title='Customers by Contract')
+plt.tight_layout()
+plt.savefig('images/contract_distribution.png')
