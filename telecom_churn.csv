@@ -1,0 +1,1001 @@
+CustomerID,Tenure,MonthlyCharges,Contract,InternetService,Churn
+C0001,52,26,Month-to-month,None,No
+C0002,15,112,Month-to-month,Fiber,Yes
+C0003,72,27,Month-to-month,Fiber,No
+C0004,61,84,Month-to-month,DSL,No
+C0005,21,76,Month-to-month,Fiber,No
+C0006,24,86,Month-to-month,Fiber,No
+C0007,3,107,One year,Fiber,No
+C0008,22,106,One year,Fiber,No
+C0009,53,78,Month-to-month,Fiber,No
+C0010,2,91,Two year,None,No
+C0011,30,73,Month-to-month,Fiber,No
+C0012,38,120,Two year,DSL,No
+C0013,2,86,Month-to-month,DSL,Yes
+C0014,64,70,Two year,None,No
+C0015,60,116,One year,Fiber,No
+C0016,21,111,Month-to-month,None,No
+C0017,33,27,Month-to-month,DSL,No
+C0018,58,53,Month-to-month,DSL,No
+C0019,22,54,Month-to-month,DSL,No
+C0020,49,115,Month-to-month,DSL,No
+C0021,59,107,One year,Fiber,No
+C0022,42,97,Month-to-month,DSL,No
+C0023,60,51,One year,DSL,No
+C0024,15,65,Two year,DSL,No
+C0025,62,35,Month-to-month,None,No
+C0026,62,87,One year,Fiber,No
+C0027,47,56,Month-to-month,None,No
+C0028,62,73,One year,Fiber,No
+C0029,51,104,Month-to-month,Fiber,No
+C0030,55,33,Two year,Fiber,No
+C0031,64,114,Two year,Fiber,No
+C0032,3,74,Month-to-month,DSL,Yes
+C0033,51,67,Month-to-month,Fiber,No
+C0034,7,101,Two year,Fiber,No
+C0035,21,26,One year,None,No
+C0036,39,93,Month-to-month,DSL,No
+C0037,18,26,Month-to-month,DSL,No
+C0038,4,52,One year,None,No
+C0039,60,42,Month-to-month,DSL,No
+C0040,14,104,Two year,Fiber,No
+C0041,9,38,Month-to-month,Fiber,No
+C0042,53,38,Month-to-month,DSL,No
+C0043,2,55,Two year,Fiber,No
+C0044,60,48,Month-to-month,DSL,No
+C0045,71,79,Month-to-month,Fiber,No
+C0046,44,101,Month-to-month,Fiber,No
+C0047,8,21,Month-to-month,DSL,No
+C0048,47,20,One year,DSL,No
+C0049,35,66,Month-to-month,DSL,No
+C0050,36,88,One year,DSL,No
+C0051,50,39,One year,Fiber,No
+C0052,4,30,One year,Fiber,No
+C0053,2,21,Month-to-month,None,No
+C0054,6,86,Month-to-month,DSL,Yes
+C0055,54,106,Two year,Fiber,No
+C0056,4,31,One year,DSL,No
+C0057,54,39,One year,Fiber,No
+C0058,63,24,Month-to-month,Fiber,No
+C0059,18,56,Month-to-month,Fiber,No
+C0060,44,57,One year,DSL,No
+C0061,34,113,Two year,DSL,No
+C0062,62,28,One year,Fiber,No
+C0063,14,117,Two year,None,No
+C0064,48,72,One year,Fiber,No
+C0065,15,63,Month-to-month,Fiber,Yes
+C0066,72,118,Month-to-month,Fiber,No
+C0067,62,105,Month-to-month,Fiber,No
+C0068,40,43,Month-to-month,Fiber,No
+C0069,53,100,Two year,DSL,No
+C0070,24,93,Month-to-month,DSL,No
+C0071,26,49,Month-to-month,DSL,No
+C0072,60,78,Month-to-month,Fiber,No
+C0073,41,106,Month-to-month,Fiber,No
+C0074,29,115,Month-to-month,Fiber,No
+C0075,15,100,Month-to-month,Fiber,Yes
+C0076,45,100,One year,DSL,No
+C0077,65,33,Month-to-month,Fiber,No
+C0078,71,28,One year,DSL,No
+C0079,9,59,Month-to-month,None,No
+C0080,1,85,Month-to-month,Fiber,Yes
+C0081,8,44,Month-to-month,DSL,No
+C0082,63,92,One year,DSL,No
+C0083,11,41,One year,DSL,No
+C0084,8,23,Month-to-month,DSL,No
+C0085,35,45,Month-to-month,Fiber,No
+C0086,35,77,One year,Fiber,No
+C0087,33,48,Month-to-month,Fiber,No
+C0088,5,117,Month-to-month,Fiber,Yes
+C0089,41,106,Two year,DSL,No
+C0090,28,56,One year,Fiber,No
+C0091,7,94,Month-to-month,None,Yes
+C0092,72,89,Two year,DSL,No
+C0093,12,37,One year,Fiber,No
+C0094,34,104,Month-to-month,Fiber,No
+C0095,33,61,One year,None,No
+C0096,48,119,One year,DSL,No
+C0097,23,60,Month-to-month,DSL,No
+C0098,62,57,Month-to-month,Fiber,No
+C0099,37,53,Month-to-month,Fiber,No
+C0100,44,36,One year,Fiber,No
+C0101,35,56,Month-to-month,Fiber,No
+C0102,65,44,Two year,DSL,No
+C0103,47,95,One year,DSL,No
+C0104,3,106,Month-to-month,DSL,Yes
+C0105,1,105,One year,None,No
+C0106,5,104,Month-to-month,DSL,Yes
+C0107,14,46,One year,Fiber,No
+C0108,27,76,One year,Fiber,No
+C0109,9,50,Month-to-month,None,No
+C0110,15,25,Month-to-month,Fiber,No
+C0111,42,110,Month-to-month,None,No
+C0112,51,59,Month-to-month,DSL,No
+C0113,63,117,Month-to-month,Fiber,No
+C0114,52,31,Month-to-month,DSL,No
+C0115,4,72,Two year,None,No
+C0116,23,90,Month-to-month,DSL,No
+C0117,15,29,Month-to-month,None,No
+C0118,43,64,One year,None,No
+C0119,29,36,Month-to-month,Fiber,No
+C0120,36,45,Two year,Fiber,No
+C0121,13,104,One year,None,No
+C0122,32,111,One year,DSL,No
+C0123,71,81,Month-to-month,Fiber,No
+C0124,59,65,Month-to-month,Fiber,No
+C0125,28,83,Month-to-month,DSL,No
+C0126,66,21,Two year,None,No
+C0127,42,73,Month-to-month,DSL,No
+C0128,45,84,Month-to-month,DSL,No
+C0129,62,70,Two year,Fiber,No
+C0130,57,72,Month-to-month,Fiber,No
+C0131,6,55,Month-to-month,None,No
+C0132,28,45,Month-to-month,Fiber,No
+C0133,28,48,Two year,Fiber,No
+C0134,44,40,Month-to-month,Fiber,No
+C0135,30,30,One year,DSL,No
+C0136,62,59,One year,None,No
+C0137,62,30,Month-to-month,Fiber,No
+C0138,1,55,One year,Fiber,No
+C0139,27,78,Month-to-month,DSL,No
+C0140,62,58,Month-to-month,None,No
+C0141,3,118,One year,Fiber,No
+C0142,70,73,Two year,Fiber,No
+C0143,72,117,One year,Fiber,No
+C0144,27,74,Month-to-month,None,No
+C0145,9,43,Month-to-month,Fiber,No
+C0146,62,41,Month-to-month,Fiber,No
+C0147,37,88,Month-to-month,DSL,No
+C0148,51,75,Month-to-month,DSL,No
+C0149,44,52,Month-to-month,Fiber,No
+C0150,24,55,Month-to-month,None,No
+C0151,59,39,Month-to-month,Fiber,No
+C0152,32,102,Month-to-month,DSL,No
+C0153,52,118,Month-to-month,Fiber,No
+C0154,62,100,Two year,DSL,No
+C0155,58,81,Month-to-month,Fiber,No
+C0156,52,117,Two year,None,No
+C0157,12,92,Two year,DSL,No
+C0158,39,45,Month-to-month,DSL,No
+C0159,2,85,One year,DSL,No
+C0160,3,92,One year,DSL,No
+C0161,56,92,One year,Fiber,No
+C0162,59,59,Month-to-month,Fiber,No
+C0163,2,36,Month-to-month,None,No
+C0164,2,20,Month-to-month,Fiber,No
+C0165,54,108,Month-to-month,DSL,No
+C0166,1,80,One year,None,No
+C0167,19,62,One year,Fiber,No
+C0168,2,61,Month-to-month,DSL,Yes
+C0169,53,44,One year,Fiber,No
+C0170,44,58,Month-to-month,DSL,No
+C0171,32,54,Month-to-month,Fiber,No
+C0172,70,22,Two year,Fiber,No
+C0173,32,120,Month-to-month,DSL,No
+C0174,68,63,Month-to-month,DSL,No
+C0175,55,70,Month-to-month,DSL,No
+C0176,56,113,Month-to-month,DSL,No
+C0177,17,117,Two year,Fiber,No
+C0178,38,31,One year,DSL,No
+C0179,24,38,Two year,Fiber,No
+C0180,69,120,One year,None,No
+C0181,70,63,Month-to-month,DSL,No
+C0182,11,78,Month-to-month,DSL,Yes
+C0183,16,68,One year,None,No
+C0184,59,80,Month-to-month,Fiber,No
+C0185,70,36,Two year,DSL,No
+C0186,3,93,Two year,Fiber,No
+C0187,20,76,Month-to-month,None,No
+C0188,59,74,Two year,Fiber,No
+C0189,36,66,Two year,DSL,No
+C0190,19,31,One year,None,No
+C0191,67,81,Month-to-month,Fiber,No
+C0192,19,99,Month-to-month,Fiber,No
+C0193,20,107,Month-to-month,DSL,No
+C0194,71,102,Month-to-month,Fiber,No
+C0195,52,27,Month-to-month,Fiber,No
+C0196,33,114,One year,Fiber,No
+C0197,40,40,Month-to-month,Fiber,No
+C0198,39,100,One year,None,No
+C0199,1,106,Two year,DSL,No
+C0200,11,120,Two year,Fiber,No
+C0201,57,99,Month-to-month,Fiber,No
+C0202,50,89,Two year,Fiber,No
+C0203,23,91,Month-to-month,Fiber,No
+C0204,31,44,Month-to-month,Fiber,No
+C0205,42,101,One year,Fiber,No
+C0206,7,108,Month-to-month,Fiber,Yes
+C0207,16,31,Month-to-month,DSL,No
+C0208,60,34,One year,Fiber,No
+C0209,2,78,Month-to-month,DSL,Yes
+C0210,1,45,Month-to-month,DSL,No
+C0211,48,45,Month-to-month,DSL,No
+C0212,12,66,One year,DSL,No
+C0213,69,51,One year,DSL,No
+C0214,37,29,Month-to-month,None,No
+C0215,32,35,Month-to-month,DSL,No
+C0216,9,90,Month-to-month,DSL,Yes
+C0217,19,36,Month-to-month,DSL,No
+C0218,48,42,One year,DSL,No
+C0219,3,45,Month-to-month,Fiber,No
+C0220,20,104,Month-to-month,Fiber,No
+C0221,24,105,One year,Fiber,No
+C0222,54,26,One year,None,No
+C0223,33,33,One year,DSL,No
+C0224,24,98,Month-to-month,None,No
+C0225,72,26,Month-to-month,DSL,No
+C0226,36,28,Month-to-month,Fiber,No
+C0227,38,67,Month-to-month,Fiber,No
+C0228,25,91,One year,DSL,No
+C0229,18,78,Two year,DSL,No
+C0230,66,106,One year,None,No
+C0231,54,112,One year,Fiber,No
+C0232,35,101,Month-to-month,DSL,No
+C0233,61,114,One year,DSL,No
+C0234,41,113,Month-to-month,DSL,No
+C0235,33,58,Month-to-month,DSL,No
+C0236,68,118,Month-to-month,DSL,No
+C0237,33,37,Month-to-month,Fiber,No
+C0238,14,78,Month-to-month,DSL,Yes
+C0239,21,36,Two year,DSL,No
+C0240,48,33,Month-to-month,None,No
+C0241,20,50,Month-to-month,DSL,No
+C0242,8,43,Month-to-month,Fiber,No
+C0243,7,118,One year,Fiber,No
+C0244,67,79,One year,None,No
+C0245,17,64,One year,DSL,No
+C0246,33,117,Month-to-month,None,No
+C0247,48,22,One year,Fiber,No
+C0248,59,56,Month-to-month,DSL,No
+C0249,22,62,Two year,DSL,No
+C0250,30,59,One year,None,No
+C0251,38,109,Month-to-month,Fiber,No
+C0252,51,74,Month-to-month,DSL,No
+C0253,54,106,Month-to-month,DSL,No
+C0254,8,58,Month-to-month,Fiber,No
+C0255,27,34,Month-to-month,DSL,No
+C0256,27,23,One year,DSL,No
+C0257,21,112,Month-to-month,None,No
+C0258,30,105,Month-to-month,Fiber,No
+C0259,28,44,Month-to-month,Fiber,No
+C0260,64,32,Month-to-month,Fiber,No
+C0261,69,101,Two year,Fiber,No
+C0262,61,52,Month-to-month,Fiber,No
+C0263,48,35,One year,DSL,No
+C0264,19,61,Two year,Fiber,No
+C0265,4,85,One year,None,No
+C0266,35,74,Two year,None,No
+C0267,64,118,Month-to-month,DSL,No
+C0268,49,61,Two year,None,No
+C0269,17,53,Month-to-month,DSL,No
+C0270,44,49,Month-to-month,DSL,No
+C0271,30,32,One year,Fiber,No
+C0272,46,32,Two year,Fiber,No
+C0273,6,37,Two year,DSL,No
+C0274,37,51,Month-to-month,None,No
+C0275,24,115,Month-to-month,Fiber,No
+C0276,46,118,Two year,None,No
+C0277,53,58,Month-to-month,DSL,No
+C0278,60,65,One year,Fiber,No
+C0279,63,48,Two year,None,No
+C0280,32,81,Month-to-month,DSL,No
+C0281,33,112,Month-to-month,Fiber,No
+C0282,67,81,Month-to-month,DSL,No
+C0283,18,76,Month-to-month,Fiber,No
+C0284,25,35,Two year,DSL,No
+C0285,54,75,Month-to-month,Fiber,No
+C0286,58,29,Two year,Fiber,No
+C0287,67,49,Month-to-month,None,No
+C0288,46,44,Two year,DSL,No
+C0289,24,103,Month-to-month,Fiber,No
+C0290,32,24,Month-to-month,Fiber,No
+C0291,47,84,Month-to-month,None,No
+C0292,23,113,One year,Fiber,No
+C0293,66,68,One year,Fiber,No
+C0294,27,22,Two year,Fiber,No
+C0295,2,64,Month-to-month,Fiber,Yes
+C0296,17,33,Month-to-month,DSL,No
+C0297,33,49,Month-to-month,DSL,No
+C0298,9,87,Month-to-month,Fiber,Yes
+C0299,43,37,Month-to-month,DSL,No
+C0300,48,81,Two year,Fiber,No
+C0301,39,56,Two year,None,No
+C0302,42,44,Two year,None,No
+C0303,26,67,One year,Fiber,No
+C0304,50,84,Month-to-month,None,No
+C0305,25,72,Month-to-month,DSL,No
+C0306,24,98,Month-to-month,Fiber,No
+C0307,13,92,Two year,Fiber,No
+C0308,60,34,Month-to-month,Fiber,No
+C0309,7,68,Month-to-month,DSL,Yes
+C0310,57,107,Month-to-month,None,No
+C0311,36,87,Month-to-month,DSL,No
+C0312,45,31,Two year,None,No
+C0313,20,78,One year,DSL,No
+C0314,65,56,Month-to-month,DSL,No
+C0315,8,80,Two year,DSL,No
+C0316,16,120,One year,Fiber,No
+C0317,14,62,Month-to-month,DSL,Yes
+C0318,15,89,Month-to-month,DSL,Yes
+C0319,66,58,Month-to-month,Fiber,No
+C0320,32,75,Month-to-month,DSL,No
+C0321,63,82,Two year,Fiber,No
+C0322,51,65,Month-to-month,DSL,No
+C0323,25,107,Two year,DSL,No
+C0324,58,30,Month-to-month,Fiber,No
+C0325,63,81,Month-to-month,Fiber,No
+C0326,62,96,Month-to-month,Fiber,No
+C0327,22,117,Month-to-month,None,No
+C0328,58,44,Month-to-month,Fiber,No
+C0329,58,90,Two year,None,No
+C0330,49,71,Month-to-month,Fiber,No
+C0331,52,23,One year,None,No
+C0332,42,78,Month-to-month,None,No
+C0333,70,91,Month-to-month,Fiber,No
+C0334,15,39,Month-to-month,DSL,No
+C0335,54,112,One year,Fiber,No
+C0336,60,82,Month-to-month,DSL,No
+C0337,8,73,Month-to-month,Fiber,Yes
+C0338,53,93,One year,Fiber,No
+C0339,60,117,Month-to-month,Fiber,No
+C0340,5,76,Month-to-month,Fiber,Yes
+C0341,68,109,Month-to-month,Fiber,No
+C0342,6,60,Two year,DSL,No
+C0343,47,22,One year,None,No
+C0344,55,25,Month-to-month,Fiber,No
+C0345,40,24,Month-to-month,DSL,No
+C0346,52,24,Two year,Fiber,No
+C0347,16,73,One year,DSL,No
+C0348,13,66,Month-to-month,None,Yes
+C0349,30,106,Two year,None,No
+C0350,19,68,Month-to-month,None,No
+C0351,17,28,Month-to-month,Fiber,No
+C0352,63,118,One year,DSL,No
+C0353,19,39,Month-to-month,DSL,No
+C0354,58,80,Two year,Fiber,No
+C0355,55,54,One year,None,No
+C0356,62,69,One year,Fiber,No
+C0357,23,101,Month-to-month,DSL,No
+C0358,9,81,Month-to-month,Fiber,Yes
+C0359,12,36,Month-to-month,Fiber,No
+C0360,1,107,One year,DSL,No
+C0361,58,22,Month-to-month,DSL,No
+C0362,1,51,Month-to-month,Fiber,No
+C0363,34,118,One year,Fiber,No
+C0364,48,32,Month-to-month,DSL,No
+C0365,1,108,One year,Fiber,No
+C0366,16,92,Month-to-month,Fiber,Yes
+C0367,61,87,Two year,None,No
+C0368,64,33,Month-to-month,DSL,No
+C0369,63,120,Month-to-month,Fiber,No
+C0370,69,117,Month-to-month,DSL,No
+C0371,22,30,Month-to-month,DSL,No
+C0372,67,75,One year,None,No
+C0373,26,86,One year,DSL,No
+C0374,16,111,One year,Fiber,No
+C0375,51,48,Month-to-month,Fiber,No
+C0376,57,28,Month-to-month,Fiber,No
+C0377,29,86,Month-to-month,DSL,No
+C0378,69,44,One year,Fiber,No
+C0379,47,117,Two year,DSL,No
+C0380,62,95,Month-to-month,Fiber,No
+C0381,69,61,Month-to-month,Fiber,No
+C0382,16,28,One year,None,No
+C0383,48,98,Two year,Fiber,No
+C0384,39,59,One year,Fiber,No
+C0385,33,44,Two year,DSL,No
+C0386,23,24,Month-to-month,Fiber,No
+C0387,10,30,Month-to-month,DSL,No
+C0388,69,78,Two year,DSL,No
+C0389,34,117,One year,Fiber,No
+C0390,52,107,Month-to-month,DSL,No
+C0391,10,98,One year,DSL,No
+C0392,19,57,Two year,Fiber,No
+C0393,58,91,One year,Fiber,No
+C0394,1,24,One year,Fiber,No
+C0395,69,67,Month-to-month,None,No
+C0396,4,109,Month-to-month,Fiber,Yes
+C0397,16,37,Month-to-month,DSL,No
+C0398,24,89,Two year,DSL,No
+C0399,2,56,Two year,DSL,No
+C0400,32,79,Two year,Fiber,No
+C0401,24,67,Month-to-month,Fiber,No
+C0402,12,96,One year,DSL,No
+C0403,50,47,One year,Fiber,No
+C0404,35,88,One year,Fiber,No
+C0405,33,96,One year,Fiber,No
+C0406,33,100,Two year,Fiber,No
+C0407,61,59,Month-to-month,None,No
+C0408,51,64,Month-to-month,Fiber,No
+C0409,43,115,Month-to-month,Fiber,No
+C0410,12,81,Month-to-month,Fiber,Yes
+C0411,67,112,One year,DSL,No
+C0412,65,77,One year,DSL,No
+C0413,33,86,Month-to-month,Fiber,No
+C0414,40,75,Month-to-month,DSL,No
+C0415,43,59,One year,DSL,No
+C0416,44,117,Month-to-month,None,No
+C0417,29,59,Month-to-month,DSL,No
+C0418,13,110,Month-to-month,Fiber,Yes
+C0419,12,96,Month-to-month,Fiber,Yes
+C0420,46,52,Month-to-month,Fiber,No
+C0421,2,25,Month-to-month,Fiber,No
+C0422,35,107,Month-to-month,None,No
+C0423,8,38,Two year,Fiber,No
+C0424,26,99,Month-to-month,Fiber,No
+C0425,34,59,One year,DSL,No
+C0426,7,111,Month-to-month,DSL,Yes
+C0427,68,116,Month-to-month,Fiber,No
+C0428,58,78,One year,Fiber,No
+C0429,29,78,Month-to-month,Fiber,No
+C0430,36,67,Month-to-month,DSL,No
+C0431,21,60,One year,Fiber,No
+C0432,36,32,One year,Fiber,No
+C0433,10,64,Month-to-month,DSL,Yes
+C0434,24,108,Month-to-month,Fiber,No
+C0435,64,72,One year,DSL,No
+C0436,49,61,Month-to-month,Fiber,No
+C0437,36,119,One year,Fiber,No
+C0438,24,82,One year,None,No
+C0439,23,46,Two year,DSL,No
+C0440,62,57,Month-to-month,Fiber,No
+C0441,37,79,Two year,DSL,No
+C0442,12,26,Month-to-month,DSL,No
+C0443,55,24,Month-to-month,DSL,No
+C0444,13,64,Month-to-month,Fiber,Yes
+C0445,23,77,One year,None,No
+C0446,30,50,Month-to-month,Fiber,No
+C0447,17,42,Month-to-month,Fiber,No
+C0448,62,61,Month-to-month,Fiber,No
+C0449,13,29,Two year,Fiber,No
+C0450,59,51,One year,DSL,No
+C0451,19,72,One year,Fiber,No
+C0452,49,49,Month-to-month,Fiber,No
+C0453,12,58,Month-to-month,None,No
+C0454,61,50,One year,Fiber,No
+C0455,19,101,Month-to-month,Fiber,No
+C0456,9,119,Month-to-month,Fiber,Yes
+C0457,71,21,One year,Fiber,No
+C0458,28,97,Two year,Fiber,No
+C0459,52,96,One year,DSL,No
+C0460,16,112,One year,Fiber,No
+C0461,69,31,Two year,Fiber,No
+C0462,12,58,Month-to-month,DSL,No
+C0463,25,85,One year,DSL,No
+C0464,52,115,Two year,Fiber,No
+C0465,53,32,Month-to-month,DSL,No
+C0466,23,65,One year,Fiber,No
+C0467,16,46,One year,Fiber,No
+C0468,57,36,One year,DSL,No
+C0469,39,114,One year,Fiber,No
+C0470,53,117,Two year,None,No
+C0471,42,79,One year,Fiber,No
+C0472,58,83,Month-to-month,DSL,No
+C0473,39,107,Two year,Fiber,No
+C0474,14,54,Month-to-month,DSL,No
+C0475,5,89,Month-to-month,DSL,Yes
+C0476,35,102,Month-to-month,DSL,No
+C0477,18,49,Month-to-month,Fiber,No
+C0478,9,90,Month-to-month,DSL,Yes
+C0479,58,93,Two year,DSL,No
+C0480,17,115,One year,DSL,No
+C0481,7,117,One year,DSL,No
+C0482,46,82,Month-to-month,DSL,No
+C0483,13,47,Two year,Fiber,No
+C0484,40,79,Two year,Fiber,No
+C0485,42,98,One year,Fiber,No
+C0486,9,113,Month-to-month,Fiber,Yes
+C0487,50,56,Month-to-month,None,No
+C0488,27,112,Month-to-month,DSL,No
+C0489,66,41,Month-to-month,None,No
+C0490,5,87,Month-to-month,Fiber,Yes
+C0491,29,39,Two year,None,No
+C0492,37,115,Month-to-month,DSL,No
+C0493,38,119,Month-to-month,DSL,No
+C0494,8,87,Month-to-month,DSL,Yes
+C0495,65,110,Month-to-month,Fiber,No
+C0496,17,83,Month-to-month,DSL,Yes
+C0497,71,36,Month-to-month,DSL,No
+C0498,45,31,Month-to-month,Fiber,No
+C0499,4,41,One year,Fiber,No
+C0500,36,36,Two year,None,No
+C0501,70,29,Month-to-month,None,No
+C0502,31,84,Month-to-month,None,No
+C0503,19,41,Two year,DSL,No
+C0504,61,109,Month-to-month,Fiber,No
+C0505,54,101,Month-to-month,Fiber,No
+C0506,39,69,Two year,Fiber,No
+C0507,19,33,Month-to-month,Fiber,No
+C0508,39,83,One year,Fiber,No
+C0509,67,66,One year,Fiber,No
+C0510,45,48,Month-to-month,Fiber,No
+C0511,13,95,Month-to-month,None,Yes
+C0512,58,55,One year,Fiber,No
+C0513,20,118,Month-to-month,None,No
+C0514,72,71,Month-to-month,DSL,No
+C0515,61,95,One year,Fiber,No
+C0516,39,26,Month-to-month,Fiber,No
+C0517,1,48,Month-to-month,Fiber,No
+C0518,3,30,Two year,Fiber,No
+C0519,62,52,Month-to-month,DSL,No
+C0520,63,25,Two year,Fiber,No
+C0521,25,98,One year,Fiber,No
+C0522,56,51,One year,Fiber,No
+C0523,33,70,Month-to-month,None,No
+C0524,38,94,Two year,DSL,No
+C0525,6,77,Month-to-month,DSL,Yes
+C0526,58,106,One year,Fiber,No
+C0527,44,45,Month-to-month,DSL,No
+C0528,45,117,Month-to-month,DSL,No
+C0529,32,65,Month-to-month,DSL,No
+C0530,45,117,Two year,None,No
+C0531,61,48,Two year,Fiber,No
+C0532,47,23,Month-to-month,None,No
+C0533,21,100,Month-to-month,None,No
+C0534,36,118,One year,Fiber,No
+C0535,19,32,Month-to-month,Fiber,No
+C0536,20,58,Month-to-month,None,No
+C0537,57,34,One year,Fiber,No
+C0538,18,48,Month-to-month,DSL,No
+C0539,47,48,Two year,None,No
+C0540,49,94,Month-to-month,DSL,No
+C0541,14,51,Month-to-month,Fiber,No
+C0542,15,21,Month-to-month,DSL,No
+C0543,31,66,One year,Fiber,No
+C0544,1,97,Month-to-month,DSL,Yes
+C0545,54,103,One year,Fiber,No
+C0546,3,41,Month-to-month,DSL,No
+C0547,16,94,Two year,DSL,No
+C0548,57,46,Month-to-month,DSL,No
+C0549,12,86,Month-to-month,DSL,Yes
+C0550,16,100,One year,DSL,No
+C0551,72,75,Month-to-month,DSL,No
+C0552,24,111,Month-to-month,Fiber,No
+C0553,28,112,Two year,DSL,No
+C0554,8,40,Month-to-month,Fiber,No
+C0555,36,66,One year,None,No
+C0556,8,99,Month-to-month,Fiber,Yes
+C0557,58,120,One year,Fiber,No
+C0558,60,78,Month-to-month,DSL,No
+C0559,50,103,Month-to-month,Fiber,No
+C0560,28,25,Two year,Fiber,No
+C0561,41,38,One year,DSL,No
+C0562,64,76,Month-to-month,DSL,No
+C0563,27,88,Month-to-month,DSL,No
+C0564,63,22,Two year,Fiber,No
+C0565,17,20,Month-to-month,DSL,No
+C0566,33,77,One year,Fiber,No
+C0567,29,57,One year,DSL,No
+C0568,13,34,Month-to-month,DSL,No
+C0569,46,53,Month-to-month,DSL,No
+C0570,35,80,One year,Fiber,No
+C0571,6,54,Month-to-month,Fiber,No
+C0572,69,83,Month-to-month,Fiber,No
+C0573,47,44,Two year,Fiber,No
+C0574,25,43,One year,Fiber,No
+C0575,66,31,One year,DSL,No
+C0576,10,37,One year,Fiber,No
+C0577,56,34,One year,None,No
+C0578,30,99,Month-to-month,Fiber,No
+C0579,5,46,Month-to-month,DSL,No
+C0580,33,91,Month-to-month,DSL,No
+C0581,65,79,Month-to-month,Fiber,No
+C0582,18,65,One year,Fiber,No
+C0583,49,108,Month-to-month,DSL,No
+C0584,11,36,Month-to-month,Fiber,No
+C0585,26,112,Month-to-month,None,No
+C0586,63,72,Month-to-month,DSL,No
+C0587,59,27,Month-to-month,None,No
+C0588,27,98,Month-to-month,Fiber,No
+C0589,49,46,Month-to-month,DSL,No
+C0590,33,65,Month-to-month,DSL,No
+C0591,1,69,Month-to-month,DSL,Yes
+C0592,21,90,One year,Fiber,No
+C0593,55,22,Month-to-month,DSL,No
+C0594,6,112,Month-to-month,Fiber,Yes
+C0595,69,83,One year,DSL,No
+C0596,5,63,Month-to-month,Fiber,Yes
+C0597,3,72,Two year,None,No
+C0598,53,43,Month-to-month,Fiber,No
+C0599,23,79,Month-to-month,DSL,No
+C0600,53,22,One year,None,No
+C0601,37,39,Month-to-month,DSL,No
+C0602,17,65,One year,DSL,No
+C0603,1,34,Month-to-month,Fiber,No
+C0604,51,44,Two year,None,No
+C0605,45,113,Month-to-month,Fiber,No
+C0606,4,97,Month-to-month,DSL,Yes
+C0607,62,90,One year,DSL,No
+C0608,65,36,Month-to-month,DSL,No
+C0609,32,103,Month-to-month,Fiber,No
+C0610,34,119,One year,DSL,No
+C0611,72,28,Two year,DSL,No
+C0612,39,57,Month-to-month,Fiber,No
+C0613,26,67,One year,None,No
+C0614,34,79,Two year,Fiber,No
+C0615,54,82,Two year,Fiber,No
+C0616,3,105,Month-to-month,Fiber,Yes
+C0617,50,21,One year,Fiber,No
+C0618,12,107,Month-to-month,None,Yes
+C0619,65,91,Two year,Fiber,No
+C0620,54,30,Month-to-month,Fiber,No
+C0621,5,83,Month-to-month,Fiber,Yes
+C0622,57,96,One year,DSL,No
+C0623,17,100,Month-to-month,DSL,Yes
+C0624,47,91,Two year,Fiber,No
+C0625,23,40,Two year,Fiber,No
+C0626,14,37,One year,None,No
+C0627,66,113,Month-to-month,Fiber,No
+C0628,51,83,One year,Fiber,No
+C0629,38,101,Month-to-month,Fiber,No
+C0630,64,114,Month-to-month,DSL,No
+C0631,38,57,Two year,Fiber,No
+C0632,50,51,Month-to-month,DSL,No
+C0633,30,30,Month-to-month,Fiber,No
+C0634,51,64,Two year,None,No
+C0635,63,108,Month-to-month,Fiber,No
+C0636,52,52,Month-to-month,DSL,No
+C0637,38,60,Two year,Fiber,No
+C0638,30,27,Month-to-month,Fiber,No
+C0639,51,30,One year,DSL,No
+C0640,5,105,Two year,Fiber,No
+C0641,29,70,Two year,None,No
+C0642,4,107,One year,None,No
+C0643,10,60,Month-to-month,None,No
+C0644,56,36,Month-to-month,Fiber,No
+C0645,17,95,Two year,DSL,No
+C0646,17,65,Two year,Fiber,No
+C0647,69,51,Month-to-month,None,No
+C0648,34,98,Month-to-month,DSL,No
+C0649,6,99,Month-to-month,DSL,Yes
+C0650,53,73,Month-to-month,Fiber,No
+C0651,66,105,One year,DSL,No
+C0652,43,111,Month-to-month,Fiber,No
+C0653,23,39,Two year,DSL,No
+C0654,55,52,One year,Fiber,No
+C0655,16,93,Month-to-month,DSL,Yes
+C0656,8,59,One year,DSL,No
+C0657,4,51,Month-to-month,DSL,No
+C0658,4,116,One year,Fiber,No
+C0659,56,21,One year,DSL,No
+C0660,25,116,Two year,Fiber,No
+C0661,67,52,Two year,Fiber,No
+C0662,67,96,Month-to-month,Fiber,No
+C0663,27,49,Month-to-month,Fiber,No
+C0664,32,52,One year,Fiber,No
+C0665,50,96,Month-to-month,DSL,No
+C0666,61,45,Month-to-month,Fiber,No
+C0667,51,41,Month-to-month,Fiber,No
+C0668,19,85,One year,None,No
+C0669,21,57,Month-to-month,Fiber,No
+C0670,5,109,One year,DSL,No
+C0671,42,65,Two year,DSL,No
+C0672,61,34,Month-to-month,None,No
+C0673,22,117,Month-to-month,DSL,No
+C0674,21,63,Month-to-month,DSL,No
+C0675,70,68,Two year,DSL,No
+C0676,1,94,Month-to-month,Fiber,Yes
+C0677,5,80,Month-to-month,DSL,Yes
+C0678,12,86,Month-to-month,Fiber,Yes
+C0679,46,25,One year,None,No
+C0680,34,28,Month-to-month,Fiber,No
+C0681,49,25,One year,DSL,No
+C0682,45,92,Two year,Fiber,No
+C0683,27,114,Month-to-month,DSL,No
+C0684,26,51,Two year,Fiber,No
+C0685,47,60,Month-to-month,None,No
+C0686,56,95,Two year,DSL,No
+C0687,63,27,One year,Fiber,No
+C0688,48,91,Two year,DSL,No
+C0689,61,69,Month-to-month,DSL,No
+C0690,26,111,Month-to-month,DSL,No
+C0691,36,81,Month-to-month,Fiber,No
+C0692,1,103,Month-to-month,Fiber,Yes
+C0693,8,81,Month-to-month,Fiber,Yes
+C0694,52,26,Month-to-month,Fiber,No
+C0695,47,94,Month-to-month,None,No
+C0696,56,103,Month-to-month,Fiber,No
+C0697,14,99,Two year,DSL,No
+C0698,28,23,Month-to-month,Fiber,No
+C0699,2,25,Month-to-month,DSL,No
+C0700,26,77,Month-to-month,DSL,No
+C0701,14,41,Month-to-month,None,No
+C0702,59,45,Two year,Fiber,No
+C0703,56,22,Month-to-month,Fiber,No
+C0704,7,60,One year,Fiber,No
+C0705,3,79,Two year,Fiber,No
+C0706,23,33,Two year,Fiber,No
+C0707,18,94,One year,Fiber,No
+C0708,38,101,Two year,Fiber,No
+C0709,15,31,Two year,DSL,No
+C0710,64,106,One year,Fiber,No
+C0711,28,31,One year,Fiber,No
+C0712,39,32,One year,Fiber,No
+C0713,57,44,Month-to-month,DSL,No
+C0714,17,64,One year,None,No
+C0715,44,38,Month-to-month,DSL,No
+C0716,25,74,Month-to-month,DSL,No
+C0717,17,119,Month-to-month,Fiber,Yes
+C0718,13,64,Month-to-month,DSL,Yes
+C0719,25,27,Month-to-month,Fiber,No
+C0720,68,112,Month-to-month,Fiber,No
+C0721,10,72,One year,DSL,No
+C0722,67,74,Month-to-month,None,No
+C0723,18,51,Two year,Fiber,No
+C0724,34,70,Month-to-month,DSL,No
+C0725,8,63,Month-to-month,DSL,Yes
+C0726,40,101,One year,Fiber,No
+C0727,42,89,One year,Fiber,No
+C0728,41,37,Month-to-month,Fiber,No
+C0729,6,102,Two year,Fiber,No
+C0730,52,41,Two year,Fiber,No
+C0731,26,56,Month-to-month,Fiber,No
+C0732,64,115,Month-to-month,Fiber,No
+C0733,59,75,Two year,DSL,No
+C0734,56,78,One year,DSL,No
+C0735,59,22,Month-to-month,None,No
+C0736,70,47,Two year,Fiber,No
+C0737,33,93,Month-to-month,DSL,No
+C0738,53,54,Month-to-month,None,No
+C0739,22,80,Month-to-month,DSL,No
+C0740,21,112,One year,Fiber,No
+C0741,70,73,One year,DSL,No
+C0742,70,82,One year,Fiber,No
+C0743,4,98,Month-to-month,Fiber,Yes
+C0744,62,116,Month-to-month,DSL,No
+C0745,62,26,Month-to-month,DSL,No
+C0746,24,95,One year,Fiber,No
+C0747,55,68,Month-to-month,None,No
+C0748,9,113,Month-to-month,DSL,Yes
+C0749,3,104,Two year,Fiber,No
+C0750,31,50,Month-to-month,None,No
+C0751,40,77,Two year,Fiber,No
+C0752,36,80,Month-to-month,None,No
+C0753,24,43,One year,DSL,No
+C0754,6,39,Month-to-month,Fiber,No
+C0755,66,56,Two year,DSL,No
+C0756,4,23,Month-to-month,DSL,No
+C0757,6,111,Month-to-month,DSL,Yes
+C0758,51,39,Month-to-month,None,No
+C0759,62,79,Month-to-month,DSL,No
+C0760,57,43,Month-to-month,DSL,No
+C0761,66,69,Two year,None,No
+C0762,8,68,Month-to-month,DSL,Yes
+C0763,26,70,One year,Fiber,No
+C0764,51,115,One year,None,No
+C0765,45,55,One year,Fiber,No
+C0766,44,117,Month-to-month,DSL,No
+C0767,5,119,Month-to-month,None,Yes
+C0768,70,85,One year,DSL,No
+C0769,26,98,Two year,DSL,No
+C0770,68,53,Month-to-month,DSL,No
+C0771,19,55,Month-to-month,Fiber,No
+C0772,20,25,Month-to-month,None,No
+C0773,12,58,Two year,Fiber,No
+C0774,47,61,Month-to-month,Fiber,No
+C0775,1,77,Month-to-month,Fiber,Yes
+C0776,14,31,Two year,DSL,No
+C0777,64,22,Month-to-month,DSL,No
+C0778,38,37,Month-to-month,DSL,No
+C0779,37,59,One year,Fiber,No
+C0780,11,40,Two year,Fiber,No
+C0781,3,34,Month-to-month,Fiber,No
+C0782,33,116,Month-to-month,Fiber,No
+C0783,6,118,Month-to-month,DSL,Yes
+C0784,50,45,Month-to-month,Fiber,No
+C0785,10,27,One year,Fiber,No
+C0786,5,119,Month-to-month,Fiber,Yes
+C0787,23,113,Month-to-month,Fiber,No
+C0788,10,106,Month-to-month,Fiber,Yes
+C0789,44,61,One year,Fiber,No
+C0790,2,63,Month-to-month,DSL,Yes
+C0791,13,33,Two year,DSL,No
+C0792,40,97,Month-to-month,DSL,No
+C0793,2,21,Two year,None,No
+C0794,65,56,Two year,Fiber,No
+C0795,63,88,Month-to-month,DSL,No
+C0796,17,57,Month-to-month,None,No
+C0797,9,60,Month-to-month,Fiber,No
+C0798,15,81,Month-to-month,None,Yes
+C0799,24,79,Month-to-month,Fiber,No
+C0800,38,33,Month-to-month,Fiber,No
+C0801,35,108,Month-to-month,Fiber,No
+C0802,49,103,Two year,DSL,No
+C0803,69,21,Month-to-month,DSL,No
+C0804,62,89,Two year,DSL,No
+C0805,60,36,Month-to-month,Fiber,No
+C0806,50,108,Two year,Fiber,No
+C0807,9,47,One year,Fiber,No
+C0808,34,85,Month-to-month,Fiber,No
+C0809,35,54,One year,None,No
+C0810,1,120,Month-to-month,Fiber,Yes
+C0811,40,24,Month-to-month,DSL,No
+C0812,64,84,Two year,DSL,No
+C0813,22,59,Month-to-month,Fiber,No
+C0814,60,95,Month-to-month,DSL,No
+C0815,64,75,One year,Fiber,No
+C0816,72,55,Two year,Fiber,No
+C0817,11,64,One year,Fiber,No
+C0818,14,42,Month-to-month,DSL,No
+C0819,60,66,One year,Fiber,No
+C0820,30,50,Month-to-month,DSL,No
+C0821,35,30,One year,DSL,No
+C0822,37,29,Two year,Fiber,No
+C0823,5,86,One year,DSL,No
+C0824,26,33,Two year,DSL,No
+C0825,62,99,Month-to-month,Fiber,No
+C0826,4,93,One year,Fiber,No
+C0827,42,112,Two year,DSL,No
+C0828,18,29,Month-to-month,Fiber,No
+C0829,40,95,Two year,DSL,No
+C0830,72,113,Month-to-month,Fiber,No
+C0831,39,20,One year,Fiber,No
+C0832,14,24,Two year,Fiber,No
+C0833,32,39,One year,Fiber,No
+C0834,51,27,Month-to-month,DSL,No
+C0835,38,62,One year,Fiber,No
+C0836,23,95,Month-to-month,DSL,No
+C0837,63,20,Two year,None,No
+C0838,15,76,Month-to-month,DSL,Yes
+C0839,25,83,Month-to-month,DSL,No
+C0840,17,103,One year,Fiber,No
+C0841,66,47,Month-to-month,Fiber,No
+C0842,53,56,One year,DSL,No
+C0843,51,66,One year,Fiber,No
+C0844,39,120,Two year,DSL,No
+C0845,51,95,One year,Fiber,No
+C0846,70,56,Month-to-month,DSL,No
+C0847,6,68,Month-to-month,None,Yes
+C0848,67,63,Month-to-month,None,No
+C0849,7,75,Month-to-month,DSL,Yes
+C0850,51,47,Month-to-month,DSL,No
+C0851,72,98,One year,DSL,No
+C0852,42,25,One year,DSL,No
+C0853,64,80,Month-to-month,Fiber,No
+C0854,15,39,Two year,Fiber,No
+C0855,29,97,Two year,Fiber,No
+C0856,33,21,Two year,None,No
+C0857,27,92,One year,Fiber,No
+C0858,36,56,Month-to-month,DSL,No
+C0859,29,39,Month-to-month,DSL,No
+C0860,38,45,Month-to-month,DSL,No
+C0861,57,48,Month-to-month,DSL,No
+C0862,27,20,Two year,Fiber,No
+C0863,55,54,Two year,DSL,No
+C0864,33,89,Month-to-month,DSL,No
+C0865,68,120,Month-to-month,Fiber,No
+C0866,66,78,Two year,Fiber,No
+C0867,10,88,Month-to-month,DSL,Yes
+C0868,5,52,Month-to-month,DSL,No
+C0869,38,70,Two year,Fiber,No
+C0870,13,97,Month-to-month,DSL,Yes
+C0871,31,31,Month-to-month,DSL,No
+C0872,47,39,Month-to-month,Fiber,No
+C0873,52,72,Two year,None,No
+C0874,56,107,One year,DSL,No
+C0875,15,62,Month-to-month,DSL,Yes
+C0876,29,117,Month-to-month,DSL,No
+C0877,8,108,Month-to-month,Fiber,Yes
+C0878,5,69,One year,Fiber,No
+C0879,29,48,One year,Fiber,No
+C0880,47,76,Month-to-month,Fiber,No
+C0881,68,58,Two year,Fiber,No
+C0882,45,114,Month-to-month,None,No
+C0883,2,75,Month-to-month,DSL,Yes
+C0884,27,62,Month-to-month,DSL,No
+C0885,36,69,Month-to-month,None,No
+C0886,36,42,Month-to-month,DSL,No
+C0887,26,63,Month-to-month,Fiber,No
+C0888,43,57,Month-to-month,Fiber,No
+C0889,27,103,One year,DSL,No
+C0890,69,42,Month-to-month,DSL,No
+C0891,20,64,One year,Fiber,No
+C0892,11,71,Two year,DSL,No
+C0893,38,99,Month-to-month,Fiber,No
+C0894,6,69,Month-to-month,DSL,Yes
+C0895,72,27,Month-to-month,DSL,No
+C0896,23,104,Month-to-month,DSL,No
+C0897,47,20,Month-to-month,None,No
+C0898,46,27,One year,DSL,No
+C0899,12,48,One year,None,No
+C0900,13,115,Month-to-month,None,Yes
+C0901,62,24,Two year,DSL,No
+C0902,60,105,Month-to-month,DSL,No
+C0903,43,66,Two year,Fiber,No
+C0904,68,53,One year,Fiber,No
+C0905,5,84,One year,DSL,No
+C0906,37,74,Month-to-month,Fiber,No
+C0907,72,109,Month-to-month,Fiber,No
+C0908,31,62,Two year,None,No
+C0909,9,93,Month-to-month,None,Yes
+C0910,51,49,Two year,DSL,No
+C0911,29,101,Month-to-month,Fiber,No
+C0912,40,36,Month-to-month,Fiber,No
+C0913,41,45,Month-to-month,Fiber,No
+C0914,11,27,Month-to-month,Fiber,No
+C0915,23,66,Two year,Fiber,No
+C0916,1,95,Month-to-month,Fiber,Yes
+C0917,46,110,Month-to-month,None,No
+C0918,21,91,Month-to-month,DSL,No
+C0919,36,108,Month-to-month,Fiber,No
+C0920,54,65,Month-to-month,Fiber,No
+C0921,57,87,Month-to-month,DSL,No
+C0922,1,52,Two year,Fiber,No
+C0923,63,20,Month-to-month,None,No
+C0924,54,38,Month-to-month,Fiber,No
+C0925,55,50,Month-to-month,Fiber,No
+C0926,40,99,Month-to-month,Fiber,No
+C0927,15,33,Two year,Fiber,No
+C0928,21,72,Month-to-month,DSL,No
+C0929,47,67,Month-to-month,DSL,No
+C0930,53,88,One year,DSL,No
+C0931,9,109,Month-to-month,Fiber,Yes
+C0932,52,81,Month-to-month,DSL,No
+C0933,57,111,Two year,DSL,No
+C0934,26,85,One year,None,No
+C0935,41,83,Two year,Fiber,No
+C0936,35,89,Month-to-month,Fiber,No
+C0937,63,82,Month-to-month,DSL,No
+C0938,25,92,Month-to-month,DSL,No
+C0939,38,52,Month-to-month,Fiber,No
+C0940,2,60,Two year,Fiber,No
+C0941,7,108,Month-to-month,Fiber,Yes
+C0942,34,67,Two year,None,No
+C0943,17,32,One year,Fiber,No
+C0944,43,92,Month-to-month,None,No
+C0945,59,96,Month-to-month,DSL,No
+C0946,51,50,One year,None,No
+C0947,54,94,Month-to-month,DSL,No
+C0948,24,87,Two year,Fiber,No
+C0949,25,117,Month-to-month,None,No
+C0950,71,23,Month-to-month,Fiber,No
+C0951,52,38,One year,None,No
+C0952,70,89,Two year,DSL,No
+C0953,33,117,Month-to-month,Fiber,No
+C0954,49,101,Two year,DSL,No
+C0955,29,32,Month-to-month,None,No
+C0956,63,42,One year,Fiber,No
+C0957,22,102,One year,DSL,No
+C0958,26,94,Month-to-month,DSL,No
+C0959,28,20,Month-to-month,DSL,No
+C0960,49,107,One year,Fiber,No
+C0961,71,73,Month-to-month,Fiber,No
+C0962,49,90,One year,Fiber,No
+C0963,20,108,Month-to-month,DSL,No
+C0964,63,104,Two year,Fiber,No
+C0965,61,34,One year,None,No
+C0966,49,84,Two year,Fiber,No
+C0967,71,95,Month-to-month,DSL,No
+C0968,1,90,One year,Fiber,No
+C0969,13,34,One year,Fiber,No
+C0970,51,40,Month-to-month,Fiber,No
+C0971,56,38,Month-to-month,Fiber,No
+C0972,62,79,Month-to-month,DSL,No
+C0973,32,112,One year,None,No
+C0974,30,108,Month-to-month,DSL,No
+C0975,29,52,Month-to-month,None,No
+C0976,49,68,One year,None,No
+C0977,45,115,Month-to-month,DSL,No
+C0978,30,54,Month-to-month,DSL,No
+C0979,16,63,Two year,DSL,No
+C0980,40,109,Two year,Fiber,No
+C0981,19,30,Month-to-month,DSL,No
+C0982,18,118,Month-to-month,Fiber,No
+C0983,1,91,One year,DSL,No
+C0984,47,97,Month-to-month,DSL,No
+C0985,66,93,Month-to-month,Fiber,No
+C0986,38,85,Month-to-month,Fiber,No
+C0987,51,65,Month-to-month,None,No
+C0988,63,28,One year,DSL,No
+C0989,4,22,Month-to-month,Fiber,No
+C0990,1,104,One year,DSL,No
+C0991,8,45,Two year,DSL,No
+C0992,29,91,Month-to-month,DSL,No
+C0993,55,67,One year,None,No
+C0994,3,85,Two year,DSL,No
+C0995,32,89,Month-to-month,Fiber,No
+C0996,10,47,Month-to-month,DSL,No
+C0997,34,112,One year,None,No
+C0998,55,45,One year,Fiber,No
+C0999,32,44,Two year,Fiber,No
+C1000,50,31,Month-to-month,Fiber,No
